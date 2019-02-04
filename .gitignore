@@ -1,0 +1,9 @@
+*.txt
+*.h5
+*.png
+*.xml
+__pycache__/
+results
+temp
+temp2
+images*/
